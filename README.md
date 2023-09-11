@@ -1,9 +1,9 @@
-# Commerce-Application-Website-React-JS 🎁🛒
+# Commerce Application Website (React JS) 🎁🛒
 
-This is an application where you can buy your products and you can buy the amount you need you can also search for any product, this project is responsive for all screen devices
+This is an e-commerce application that enables you to purchase products and specify the desired quantity. You can also easily search for any product. This project is designed to be responsive and compatible with all screen devices.
 
-# To Run The Project :
+## Live Demo
 
-1- Open You Terminal and write "npm install" then "npm start"
+Explore the live demo of the Commerce Application Website: [Live Demo](https://ephemeral-cajeta-48a685.netlify.app/)
 
-### LIVE DEMO => https://ephemeral-cajeta-48a685.netlify.app/
+Feel free to navigate the website and experience its user-friendly shopping features. Thank you for your interest!
